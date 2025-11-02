@@ -4,7 +4,7 @@ Quickly convert multiple images into a single PDF document.
 
 ## Installation
 Step 1:
-Git - `git clone https://github.com/VidyutPrabakaran1/FusionPDF.git`
+Git - `git clone https://github.com/VidyutPrabakaran1/FusionPDF.git` and create a folder alongside the program, called 'images'.
 or
 Download and extract the zip file from the latest release under the releases tab.
 
